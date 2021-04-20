@@ -1,5 +1,8 @@
 package com.example.demo.entity;
 
+/**
+ * @author 41127
+ */
 public class UserInfo {
     private Integer id;
     private String userName;
