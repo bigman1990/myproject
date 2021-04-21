@@ -1,5 +1,8 @@
 package com.example.base;
 
+/**
+ * @author 41127
+ */
 public class BaseResponse<T> {
     private T data;
     private String code;
